@@ -3,5 +3,42 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13989
   title: དུང་དཀར་ཆོས་རྗེའི་གཅེས་ཉར་དཔེ་ཚོགས། ༼དུམ་བུ་ལྔ་པ།༽
-  volume: ''
+  volume:
+    f4d9abb0b67a4498b86386bf824f6955:
+      image_group_id: I1KG85557
+      title: Volume 1 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 1
+      total_pages: 583
+    c0bb44d8a99541e7a860ccea37c2ff6a:
+      image_group_id: I1KG85558
+      title: Volume 2 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 2
+      total_pages: 331
+    3e578c8177b74c1983e53e11329c73aa:
+      image_group_id: I1KG85559
+      title: Volume 3 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 3
+      total_pages: 495
+    7c2305032865460694edcf61dc27776b:
+      image_group_id: I1KG85560
+      title: Volume 4 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 4
+      total_pages: 612
+    9ae27a08c5314a0db5d165cd36fa47df:
+      image_group_id: I1KG85561
+      title: Volume 5 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 5
+      total_pages: 224
+    c7b5fc9ed7af4359b1df647bca720d17:
+      image_group_id: I1KG85562
+      title: Volume 6 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
+      volume_number: 6
+      total_pages: 440
   author: ''
+ebook_metadata:
+  title: དུང་དཀར་ཆོས་རྗེའི་གཅེས་ཉར་དཔེ་ཚོགས། ༼དུམ་བུ་ལྔ་པ།༽
+  author: ''
+  sku: P008087
+  cover: cover.jpg
+  layers:
+  - pagination

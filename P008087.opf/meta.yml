@@ -5,36 +5,42 @@ source_metadata:
   title: དུང་དཀར་ཆོས་རྗེའི་གཅེས་ཉར་དཔེ་ཚོགས། ༼དུམ་བུ་ལྔ་པ།༽
   author: ''
   volumes:
-    1111b549594342f99b3d067485f53b53:
+    f4d9abb0b67a4498b86386bf824f6955:
       image_group_id: I1KG85557
-      title: ''
+      title: Volume 1 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 1
       total_pages: 583
-    7c8768bd7bbe4e96abda76c4d2dcae10:
+      base_file: v001.txt
+    c0bb44d8a99541e7a860ccea37c2ff6a:
       image_group_id: I1KG85558
-      title: ''
+      title: Volume 2 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 2
       total_pages: 331
-    60e1997bcd8e4137b61d58458c45ad3b:
+      base_file: v002.txt
+    3e578c8177b74c1983e53e11329c73aa:
       image_group_id: I1KG85559
-      title: ''
+      title: Volume 3 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 3
       total_pages: 495
-    015a3e3dc2cd4ed683b1f931ef739313:
+      base_file: v003.txt
+    7c2305032865460694edcf61dc27776b:
       image_group_id: I1KG85560
-      title: ''
+      title: Volume 4 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 4
       total_pages: 612
-    bf94df6eea914559ba81f42a835d176f:
+      base_file: v004.txt
+    9ae27a08c5314a0db5d165cd36fa47df:
       image_group_id: I1KG85561
-      title: ''
+      title: Volume 5 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 5
       total_pages: 224
-    c3f6556e3944429faacaad11fa152e89:
+      base_file: v005.txt
+    c7b5fc9ed7af4359b1df647bca720d17:
       image_group_id: I1KG85562
-      title: ''
+      title: Volume 6 of dung dkar chos rje'i gces nyar dpe tshogs/ (dum bu lnga pa/)
       volume_number: 6
       total_pages: 440
+      base_file: v006.txt
 ebook_metadata:
   title: དུང་དཀར་ཆོས་རྗེའི་གཅེས་ཉར་དཔེ་ཚོགས། ༼དུམ་བུ་ལྔ་པ།༽
   author: ''
